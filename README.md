@@ -1,5 +1,5 @@
 
-<div style="float: left;">
+<div style="float: right;">
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hello+World;This+is+Kiuk's+GitHub)](https://git.io/typing-svg)
 
