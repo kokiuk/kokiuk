@@ -2,8 +2,9 @@
 <div style="display: inline-block; margin: 0 5px;  float: right;">
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hello+World;This+is+Kiuk's+GitHub)](https://git.io/typing-svg)
-  
+
 </div>
+
 ## My Skill Set
 
   ### Backend  
@@ -33,6 +34,7 @@
   <div align="center">  
     <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
     <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+
   </div>
 
   <br/>  
@@ -65,11 +67,11 @@
   </div>
 </details> -->
 
-<hr>
+## Contact Me
+<div>
+<a href="https://instagram.com/miru_koki?igshid=NzZlODBkYWE4Ng%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:kgukid38@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kgukid38@gmail.com"/></a></p>
 
-
-<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-
-
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
