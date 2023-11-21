@@ -70,6 +70,7 @@ byte byteBum = 120;
 ```
 
 ### 실수 자료형
+
 |  자료형 |  최대 |  최소 |  유효자리수 |
 |---|---|---|---|
 |  flaot |  1.175494351 E - 38 | 3.402823466 E + 38  | 7|
@@ -79,7 +80,47 @@ byte byteBum = 120;
 ```java
 flot folatPoint = 3.141592f;
 double doublenum = 3.1415926535;
+
+//유효자리를 벗어나면 나머지는 반올림 된다.
+//3.141592653589793
+double longDouble = 3.14159265358979323846;
+
+
 ```
+
+### 불린 자료형
+
+참 거짓을 표현하기 위환 자료형, 데이터 자체는 true 또는 false 로 나타낸다.
+```java
+boolean success = frue;
+boolean willSuccess = false;
+```
+상태를 표현하기 위한 용도로 많이 사용되며, **제어문**과 많이 사용된다.
+
+### 문자 자료형
+단일 문자를 사용하기 위한 자료형
+```java
+char alphabet = 'a';
+char charRepInt = '1';
+```
+작은 따옴표를 사용한다.
+
+### 문자열 자료형
+여러 글자를 합쳐 단어, 문장 등을 표현하기 위한 **문자char**들의 나열
+```java
+String word = "Hello"
+String sentence = " this is a String variable"
+```
+큰 따옴표를 사용
+
+[Scanner](./Scanner.md) 를 사용하여 데이터를 입력 받을 수 있다
+
+
+[문자열 응용](./StringApplication.md)  
+ 
+
+
+
 
 
 
